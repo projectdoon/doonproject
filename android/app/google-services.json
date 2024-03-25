@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726245677336",
+    "project_id": "doonsw-a6a01",
+    "storage_bucket": "doonsw-a6a01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726245677336:android:2a6ffa42f025b5f441266d",
+        "android_client_info": {
+          "package_name": "com.example.test1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZJL6NDNYhg7VnfNzusrQgBiKB3urKx8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
